@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:knowledge-book",
+      },
+        "title": "Other Datapacks",
+        "description": "All other Datapacks",
+        "background": "minecraft:textures/block/yellow_concrete.png",
+        "frame": "challenge",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
